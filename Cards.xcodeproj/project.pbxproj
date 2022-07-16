@@ -19,6 +19,8 @@
 		752ED54A287E4A1F008F4430 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		752ED54C287E4A20008F4430 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		752ED54F287E4A20008F4430 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		758617A228833501000455C4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		758617A32883356B000455C4 /* design.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = design.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,8 @@
 		752ED53C287E4A1F008F4430 = {
 			isa = PBXGroup;
 			children = (
+				758617A228833501000455C4 /* README.md */,
+				758617A32883356B000455C4 /* design.jpeg */,
 				752ED547287E4A1F008F4430 /* Cards */,
 				752ED546287E4A1F008F4430 /* Products */,
 			);
